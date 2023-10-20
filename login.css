@@ -1,0 +1,19 @@
+input {
+    background-color: rgba(226, 43, 226, 0.651);
+}
+
+button {
+    background-color: rgba(205, 92, 92, 0.274);
+    color: rgb(228, 24, 211);
+    padding: 10px 20px;
+    border: rgba(240, 128, 212, 0.404);
+    cursor: pointer;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
